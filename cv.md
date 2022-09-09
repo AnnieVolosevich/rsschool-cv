@@ -2,7 +2,7 @@
 
 ### Junior Frontend Developer
 
-### Contacts:
+### Contacts: 
 * Phone: +375 29 166-13-47
 * E-mail: annidelika@gmail.com
 * Telegram: @annie_volosevich
@@ -50,5 +50,5 @@ function deepCount(a){
 
 ### Languages: 
 * English - Intermediate - Upper Intermediate (according to the online test at [EFset](https://www.efset.org/cert/nD3eEg))
-* Russian - Native      
+* Russian - Native
 * French - Intermédiaire
