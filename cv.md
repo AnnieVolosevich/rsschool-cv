@@ -29,7 +29,7 @@ I enjoy exploring new technology and creating beautiful and useful online experi
 * React, Redux
 * Little practice with Webpack, Docker, TypeScript, Node.js
 * Figma, Illustrator
-* SQL, MySQL
+* SQL, MySQL 
 
 ***
 
@@ -50,5 +50,5 @@ function deepCount(a){
 
 ### Languages: 
 * English - Intermediate - Upper Intermediate (according to the online test at [EFset](https://www.efset.org/cert/nD3eEg))
-* Russian - Native
+* Russian - Native    
 * French - Intermédiaire
